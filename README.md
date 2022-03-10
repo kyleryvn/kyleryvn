@@ -10,33 +10,41 @@
 ## Technologies
 <div id="technologies" align="center">
     <table>
-        <thead align="center">
-            <tr>
-            <td colspan="6" style="bakcground-color: red;">Languages</td>
-            </tr>
-            <tr>
+    <thead align="center">
+        <tr>
+            <td colspan="5">Languages & Frameworks</td>
+        </tr>
+        <tr>
             <td colspan="3">Back End</td>
             <td colspan="2">Front End</td>
-            <td>Database</td>
-            </tr>
-        </thead>
-        <tbody align="center">
-            <tr>
-                <td rowspan="3"><a href="https://cppinstitute.org/"><img src="images/logos/c++.svg"></a></td>
-                <td><a href="https://www.oracle.com/java/"><img src="images/logos/java.svg"></a></td>
-                <td rowspan="3"><a href="https://www.python.org/"><img src="images/logos/python.svg"></a></td>
-                <td rowspan="3"><a href="https://html.spec.whatwg.org/multipage/"><img src="images/logos/html.svg"></a></td>
-                <td rowspan="3"><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="images/logos/css.svg"></a></td>
-                <td rowspan="3"><a href="https://www.mysql.com/"><img src="images/logos/mysql.svg"></a></td>
-            </tr>
-            <tr>
-                <td><a href="https://spring.io/"><img src="images/logos/spring.svg"></a></td>
-            </tr>
-            <tr></tr>
-            <tr>
-                <td colspan="6">ggg</td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+        </tr>
+    </thead>
+    <tbody align="center">
+        <tr>
+            <td rowspan="2"><img src="images/logos/c++.svg"></td>
+            <td><img src="images/logos/java.svg"></td>
+            <td rowspan="2"><img src="images/logos/python.svg"></td>
+            <td rowspan="2"><img src="images/logos/html.svg"></td>
+            <td rowspan="2"><img src="images/logos/css.svg"></td>
+        </tr>
+        <tr>
+            <td><img src="images/logos/spring.svg"></td>
+        </tr>
+        <tr>
+            <td colspan="7">Database</td>
+        </tr>
+        <tr>
+            <td colspan="6"><img src="images/logos/mysql.svg"></td>
+        </tr>
+        <tr>
+            <td colspan="6">IDEs & Tools</td>
+        </tr>
+        <tr>
+            <td><img src="images/logos/visualstudio.svg"></td>
+            <td><img src="images/logos/intellij.svg"></td>
+            <td><img src="images/logos/pycharm.svg"></td>
+            <td colspan="2"><img src="images/logos/vscode.svg"></td>
+        </tr>
+    </tbody>
+</table></div>
 
