@@ -15,11 +15,13 @@ I'm a college student from New York studying software engineering
             <td colspan="6">Technologies & Tools</td>
         </tr>
     </thead>
-    <tbody align="center">
+    <thead align="center">
         <tr>
             <td colspan="4">Back End</td>
             <td colspan="2">Front End</td>
         </tr>
+    </thead>
+    <tbody align="center">
         <tr>
             <td>c++</td>
             <td>java</td>
@@ -28,30 +30,46 @@ I'm a college student from New York studying software engineering
             <td>html</td>
             <td>css</td>
         </tr>
+    </tbody>
+    <thead align="center">
         <tr>
             <td colspan="7">Database</td>
         </tr>
+    </thead>
+    <tbody align="center">
         <tr>
             <td colspan="7">mysql</td>
         </tr>
+    </tbody>
+    <thead align="center">
         <tr>
             <td colspan="6">Version Control</td>
         </tr>
+    </thead>
+    <tbody align="center">
         <tr>
             <td colspan="6">git</td>
         </tr>
+    </tbody>
+    <thead align="center">
         <tr>
             <td colspan="6">IDEs & Text Editors</td>
         </tr>
+    </thead>
+    <tbody align="center">
         <tr>
             <td>visual studio</td>
             <td colspan="2">intellij</td>
             <td>pycharm</td>
             <td colspan="2">visual studio code</td>
         </tr>
+    </tbody>
+    <thead align="center">
         <tr>
             <td colspan="7">Data & Others</td>
         </tr>
+    </thead>
+    <tbody align="center">
         <tr>
             <td colspan="2">json</td>
             <td colspan="2">xml</td>
