@@ -8,8 +8,18 @@
 ## About
 I'm a college student from New York studying software engineering
 
+<div align="center" style="display:flex; justify-content:center; flex-flow:row-wrap">
+    <div style="width:100%; flex:1">fff</div>
+    <div style="width:50%; flex:2">ff</div>
+    <div style="width:50%; flex:2">ff</div>
+</div>
+
 ## Technologies & Tools
+
 #### Back End
+
+
+
 <img src="images/logos/c++.svg"> <a href="https://www.java.com/en/"><img src="images/logos/java.svg"></a><a href="http://spring.io"><img src="images/logos/spring.svg"></a> <a href="http://python.org"><img src="images/logos/python.svg"></a> <a href="https://git-scm.com/"><img src="images/logos/git.svg"></a>
 
 #### Front End
