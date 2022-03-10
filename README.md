@@ -10,7 +10,7 @@ I'm from New York
 
 ## Technologies & Tools
 #### Back End
-<img src="images/logos/c++.svg"> <a href="https://www.java.com/en/"><img src="images/logos/java.svg"></a> <a href="http://spring.io"><img src="images/logos/spring.svg"></a> <a href="http://python.org"><img src="images/logos/python.svg"></a>
+<img src="images/logos/c++.svg"> <a href="https://www.java.com/en/"><img src="images/logos/java.svg"></a> <a href="http://spring.io"><img src="images/logos/spring.svg"></a> <a href="http://python.org"><img src="images/logos/python.svg"></a> <a href="https://git-scm.com/"><img src="images/logos/git.svg"></a>
 
 #### Front End
 <img src="images/logos/html.svg"> <img src="images/logos/css.svg">
