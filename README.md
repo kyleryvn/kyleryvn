@@ -18,12 +18,12 @@ I'm a college student from New York studying software engineering
     </thead>
     <tbody align="center">
         <tr>
-            <td>c++</td>
-            <td>java</td>
-            <td>spring</td>
-            <td>python</td>
-            <td>html</td>
-            <td>css</td>
+            <td><img src="images/logos/c++.svg"> </td>
+            <td><a href="https://www.java.com/en/"><img src="images/logos/java.svg"></a></td>
+            <td><a href="http://spring.io"><img src="images/logos/spring.svg"></a></td>
+            <td><a href="http://python.org"><img src="images/logos/python.svg"></a></td>
+            <td><img src="images/logos/html.svg"></td>
+            <td> <img src="images/logos/css.svg"></td>
         </tr>
     </tbody>
     <thead align="center">
@@ -33,7 +33,7 @@ I'm a college student from New York studying software engineering
     </thead>
     <tbody align="center">
         <tr>
-            <td colspan="7">mysql</td>
+            <td colspan="7"><a href="http://mysql.com"><img src="images/logos/mysql.svg"></a></td>
         </tr>
     </tbody>
     <thead align="center">
@@ -43,7 +43,7 @@ I'm a college student from New York studying software engineering
     </thead>
     <tbody align="center">
         <tr>
-            <td colspan="6">git</td>
+            <td colspan="6"><a href="https://git-scm.com/"><img src="images/logos/git.svg"></a></td>
         </tr>
     </tbody>
     <thead align="center">
@@ -53,10 +53,10 @@ I'm a college student from New York studying software engineering
     </thead>
     <tbody align="center">
         <tr>
-            <td>visual studio</td>
-            <td colspan="2">intellij</td>
-            <td>pycharm</td>
-            <td colspan="2">visual studio code</td>
+            <td><a href="https://visualstudio.microsoft.com/"><img src="images/logos/visualstudio.svg"></a></td>
+            <td colspan="2"> <a href="https://www.jetbrains.com/idea/"><img src="images/logos/intellij.svg"></a></td>
+            <td> <a href="https://www.jetbrains.com/pycharm/"><img src="images/logos/pycharm.svg"></a></td>
+            <td colspan="2"> <a href="https://code.visualstudio.com/"><img src="images/logos/vscode.svg"></a></td>
         </tr>
     </tbody>
     <thead align="center">
@@ -66,33 +66,12 @@ I'm a college student from New York studying software engineering
     </thead>
     <tbody align="center">
         <tr>
-            <td colspan="2">json</td>
-            <td colspan="2">xml</td>
-            <td colspan="2">xquery</td>
+            <td colspan="2">JSON</td>
+            <td colspan="2">XML</td>
+            <td colspan="2">XQuery</td>
         </tr>
     </tbody>
 </table>
-
-
-
-
-<img src="images/logos/c++.svg"> <a href="https://www.java.com/en/"><img src="images/logos/java.svg"></a><a href="http://spring.io"><img src="images/logos/spring.svg"></a> <a href="http://python.org"><img src="images/logos/python.svg"></a> <a href="https://git-scm.com/"><img src="images/logos/git.svg"></a>
-
-#### Front End
-<img src="images/logos/html.svg"> <img src="images/logos/css.svg">
-
-#### Database
-<a href="http://mysql.com"><img src="images/logos/mysql.svg"></a>
-
-#### IDEs & Text Editors
-<a href="https://visualstudio.microsoft.com/"><img src="images/logos/visualstudio.svg"></a> <a href="https://www.jetbrains.com/idea/"><img src="images/logos/intellij.svg"></a> <a href="https://www.jetbrains.com/pycharm/"><img src="images/logos/pycharm.svg"></a> <a href="https://code.visualstudio.com/"><img src="images/logos/vscode.svg"></a>
-
-#### Others
-* JSON
-* XML
-* XQuery
-
-
 
 <h4 align="center">Connect with me</h4>
 <p align="center">
