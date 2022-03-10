@@ -35,7 +35,13 @@ I'm a college student from New York studying software engineering
             <td colspan="7">mysql</td>
         </tr>
         <tr>
-            <td colspan="7">IDEs & Text Editors</td>
+            <td colspan="6">Version Control</td>
+        </tr>
+        <tr>
+            <td colspan="6">git</td>
+        </tr>
+        <tr>
+            <td colspan="6">IDEs & Text Editors</td>
         </tr>
         <tr>
             <td>visual studio</td>
