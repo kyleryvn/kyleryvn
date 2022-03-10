@@ -10,21 +10,14 @@ I'm from New York
 
 ## Technologies
 ### Back End
-<img src="images/logos/c++.svg">
-<img src="images/logos/java.svg">
-<img src="images/logos/spring.svg">
-<img src="images/logos/python.svg">
+<img src="images/logos/c++.svg"> <img src="images/logos/java.svg"> <img src="images/logos/spring.svg"> <img src="images/logos/python.svg">
 
 ### Front End
-<img src="images/logos/html.svg">
-<img src="images/logos/css.svg">
+<img src="images/logos/html.svg"> <img src="images/logos/css.svg">
 
 ### Database
 <img src="images/logos/mysql.svg">
 
 ### IDEs & Text Editors
-<img src="images/logos/visualstudio.svg">
-<img src="images/logos/intellij.svg">
-<img src="images/logos/pycharm.svg">
-<img src="images/logos/vscode.svg">
+<img src="images/logos/visualstudio.svg"> <img src="images/logos/intellij.svg"> <img src="images/logos/pycharm.svg"> <img src="images/logos/vscode.svg">
 
