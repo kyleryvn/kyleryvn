@@ -32,6 +32,9 @@
             <tr>
                 <td rowspan="2"><a href="https://spring.io/"><img src="images/logos/spring.svg"></a></td>
             </tr>
+            <tr>
+                <td colspan="6">g</td>
+            </tr>
         </tbody>
     </table>
 </div>
