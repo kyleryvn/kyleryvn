@@ -9,7 +9,7 @@
 
 ## Technologies
 <div id="technologies" align="center">
-    <table>
+    <table style="background-color: white">
         <thead align="center">
             <tr>
                 <td colspan="6">Languages & Frameworks</td>
