@@ -12,7 +12,7 @@
     <table>
         <thead align="center">
             <tr>
-            <td colspan="6">Languages</td>
+            <td colspan="6" style="bakcground-color: red;">Languages</td>
             </tr>
             <tr>
             <td colspan="3">Back End</td>
