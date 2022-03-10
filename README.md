@@ -67,7 +67,7 @@ I'm a college student from New York studying software engineering
     </thead>
     <tbody align="center">
         <tr>
-            <td colspan="2">JSON</td>
+            <td colspan="2"><a href="#"><img src="images/logos/json.svg" width="46px"></a></td>
             <td colspan="2">XML</td>
             <td colspan="2">XQuery</td>
         </tr>
