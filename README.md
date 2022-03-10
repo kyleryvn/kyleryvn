@@ -20,7 +20,7 @@ I'm a college student from New York studying software engineering
     <tbody align="center">
         <tr>
             <td><img src="images/logos/c++.svg"> </td>
-            <td><a href="https://www.java.com/en/"><img src="images/logos/java.svg"></a></td>
+            <td colspan="2"><a href="https://www.java.com/en/"><img src="images/logos/java.svg"></a></td>
             <td><a href="http://python.org"><img src="images/logos/python.svg"></a></td>
             <td><img src="images/logos/html.svg"></td>
             <td> <img src="images/logos/css.svg"></td>
@@ -33,9 +33,10 @@ I'm a college student from New York studying software engineering
     </thead>
     <tbody align="center">
         <tr>
-            <td colspan="2"><a href="http://spring.io"><img src="images/logos/spring.svg"></a></td>
-            <td colspan="1"><a href="https://www.thymeleaf.org/"><img src="images/logos/thymeleaf.svg" width="46px"></td>
-            <td colspan="2"></td>
+            <td></td>
+            <td><a href="http://spring.io"><img src="images/logos/spring.svg"></a></td>
+            <td><a href="https://www.thymeleaf.org/"><img src="images/logos/thymeleaf.svg" width="46px"></td>
+            <td></td>
         </tr>
     </tbody>
     <thead align="center">
@@ -66,7 +67,7 @@ I'm a college student from New York studying software engineering
     <tbody align="center">
         <tr>
             <td><a href="https://visualstudio.microsoft.com/"><img src="images/logos/visualstudio.svg"></a></td>
-            <td colspan="2"> <a href="https://www.jetbrains.com/idea/"><img src="images/logos/intellij.svg"></a></td>
+            <td> <a href="https://www.jetbrains.com/idea/"><img src="images/logos/intellij.svg"></a></td>
             <td> <a href="https://www.jetbrains.com/pycharm/"><img src="images/logos/pycharm.svg"></a></td>
             <td colspan="2"> <a href="https://code.visualstudio.com/"><img src="images/logos/vscode.svg"></a></td>
         </tr>
