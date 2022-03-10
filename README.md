@@ -14,7 +14,7 @@ I'm a college student from New York studying software engineering
     <thead align="center">
         <tr>
             <td colspan="3">Back End</td>
-            <td colspan="2">Front End</td>
+            <td colspan="3">Front End</td>
         </tr>
     </thead>
     <tbody align="center">
@@ -28,7 +28,7 @@ I'm a college student from New York studying software engineering
     </tbody>
     <thead align="center">
         <tr>
-            <td colspan="5">Frameworks & APIs</td>
+            <td colspan="6">Frameworks & APIs</td>
         </tr>
     </thead>
     <tbody align="center">
@@ -37,16 +37,17 @@ I'm a college student from New York studying software engineering
             <td><a href="http://spring.io"><img src="images/logos/spring.svg"></a></td>
             <td><a href="https://www.thymeleaf.org/"><img src="images/logos/thymeleaf.svg" width="46px"></td>
             <td></td>
+            <td colspan="2"></td>
         </tr>
     </tbody>
     <thead align="center">
         <tr>
-            <td colspan="7">Database</td>
+            <td colspan="6">Database</td>
         </tr>
     </thead>
     <tbody align="center">
         <tr>
-            <td colspan="7"><a href="http://mysql.com"><img src="images/logos/mysql.svg"></a></td>
+            <td colspan="6"><a href="http://mysql.com"><img src="images/logos/mysql.svg"></a></td>
         </tr>
     </tbody>
     <thead align="center">
@@ -67,7 +68,7 @@ I'm a college student from New York studying software engineering
     <tbody align="center">
         <tr>
             <td><a href="https://visualstudio.microsoft.com/"><img src="images/logos/visualstudio.svg"></a></td>
-            <td> <a href="https://www.jetbrains.com/idea/"><img src="images/logos/intellij.svg"></a></td>
+            <td colspan="2"><a href="https://www.jetbrains.com/idea/"><img src="images/logos/intellij.svg"></a></td>
             <td> <a href="https://www.jetbrains.com/pycharm/"><img src="images/logos/pycharm.svg"></a></td>
             <td colspan="2"> <a href="https://code.visualstudio.com/"><img src="images/logos/vscode.svg"></a></td>
         </tr>
