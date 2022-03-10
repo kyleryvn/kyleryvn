@@ -11,6 +11,7 @@ I'm a college student from New York studying software engineering
 <h3 align="center">Tools & Technologies</h3>
 <table align="center" width="700px">
     <thead align="center">
+        <tr></tr>
         <tr>
             <td colspan="4">Back End</td>
             <td colspan="2">Front End</td>
