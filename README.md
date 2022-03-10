@@ -89,5 +89,5 @@ I'm a college student from New York studying software engineering
 
 <h4 align="center">Connect with me</h4>
 <p align="center">
-    <img src="images/logos/linkedin-circle.svg"> <img src="images/logos/twitter-circle.svg">
+    <a href="https://www.linkedin.com/in/kyleryvn/"><img src="images/logos/linkedin-circle.svg"></a> <img src="images/logos/twitter-circle.svg">
 </p>
