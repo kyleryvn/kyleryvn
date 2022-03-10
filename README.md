@@ -13,8 +13,8 @@ I'm a college student from New York studying software engineering
 <table align="center">
     <thead align="center">
         <tr>
-            <td colspan="3">Back End</td>
-            <td colspan="3">Front End</td>
+            <td colspan="4">Back End</td>
+            <td colspan="2">Front End</td>
         </tr>
     </thead>
     <tbody align="center">
