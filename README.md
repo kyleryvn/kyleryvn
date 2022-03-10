@@ -6,7 +6,7 @@
 <h3 align="center">I'm a passionate software engineer on a mission to learn as much as I can</h3>
 
 ## About
-I'm from New York
+I'm a college student from New York studying software engineering
 
 ## Technologies & Tools
 #### Back End
@@ -20,4 +20,9 @@ I'm from New York
 
 #### IDEs & Text Editors
 <a href="https://visualstudio.microsoft.com/"><img src="images/logos/visualstudio.svg"></a> <a href="https://www.jetbrains.com/idea/"><img src="images/logos/intellij.svg"></a> <a href="https://www.jetbrains.com/pycharm/"><img src="images/logos/pycharm.svg"></a> <a href="https://code.visualstudio.com/"><img src="images/logos/vscode.svg"></a>
+
+#### Others
+* JSON
+* XML
+* XQuery
 
