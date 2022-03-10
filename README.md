@@ -19,5 +19,5 @@ I'm from New York
 <a href="http://mysql.com"><img src="images/logos/mysql.svg"></a>
 
 #### IDEs & Text Editors
-<img src="images/logos/visualstudio.svg"> <img src="images/logos/intellij.svg"> <img src="images/logos/pycharm.svg"> <img src="images/logos/vscode.svg">
+<img src="images/logos/visualstudio.svg"> <a href="https://www.jetbrains.com/idea/"><img src="images/logos/intellij.svg"></a> <a href="https://www.jetbrains.com/pycharm/"><img src="images/logos/pycharm.svg"></a> <a href="https://code.visualstudio.com/"><img src="images/logos/vscode.svg"></a>
 
