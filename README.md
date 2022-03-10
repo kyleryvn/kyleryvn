@@ -10,7 +10,7 @@ I'm a college student from New York studying software engineering
 
 
 ## Tools & Technologies
-<table align="center" width="700px">
+<table align="center">
     <thead align="center">
         <tr>
             <td colspan="4">Back End</td>
@@ -21,10 +21,20 @@ I'm a college student from New York studying software engineering
         <tr>
             <td><img src="images/logos/c++.svg"> </td>
             <td><a href="https://www.java.com/en/"><img src="images/logos/java.svg"></a></td>
-            <td><a href="http://spring.io"><img src="images/logos/spring.svg"></a></td>
             <td><a href="http://python.org"><img src="images/logos/python.svg"></a></td>
             <td><img src="images/logos/html.svg"></td>
             <td> <img src="images/logos/css.svg"></td>
+        </tr>
+    </tbody>
+    <thead align="center">
+        <tr>
+            <td colspan="5">Frameworks & APIs</td>
+        </tr>
+    </thead>
+    <tbody align="center">
+        <tr>
+            <td colspan="3"><a href="http://spring.io"><img src="images/logos/spring.svg"></a></td>
+            <td colspan="3">thymeleaf</td>
         </tr>
     </tbody>
     <thead align="center">
