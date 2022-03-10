@@ -10,7 +10,7 @@
 ## Technologies
 <div id="technologies" align="center">
     <table>
-        <thead>
+        <thead align="center">
             <tr>
             <td colspan="3">Back End</td>
             <td>Front End</td>
