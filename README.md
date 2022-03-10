@@ -9,6 +9,13 @@
 
 ## Technologies
 <div id="technologies" align="center">
-    <img src="images/logos/c++.svg" alt="c++"><img src="images/logos/java.svg" alt="java">
+    <table>
+        <thead style="background: black; font-size:1.5em">
+            <tr>
+            <td>Back End</td>
+            <td>Front End</td>
+            </tr>
+        </thead>
+    </table>
 </div>
 
