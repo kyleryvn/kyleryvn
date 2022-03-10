@@ -19,11 +19,11 @@ I'm a college student from New York studying software engineering
     </thead>
     <tbody align="center">
         <tr>
-            <td><img src="images/logos/c++.svg"></td>
+            <td><a href="https://www.w3schools.com/cpp/default.asp"><img src="images/logos/c++.svg"></a></td>
             <td colspan="2"><a href="https://www.java.com/en/"><img src="images/logos/java.svg"></a></td>
             <td><a href="http://python.org"><img src="images/logos/python.svg"></a></td>
-            <td><img src="images/logos/html.svg"></td>
-            <td> <img src="images/logos/css.svg"></td>
+            <td><a href="https://www.w3schools.com/html/default.asp"><img src="images/logos/html.svg"></a></td>
+            <td><a href="https://www.w3schools.com/css/default.asp"><img src="images/logos/css.svg"></a></td>
         </tr>
     </tbody>
     <thead align="center">
