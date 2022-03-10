@@ -12,7 +12,7 @@ I'm a college student from New York studying software engineering
 <table align="center" width="100%">
     <thead align="center">
         <tr>
-            <td colspan="7">Technologies & Tools</td>
+            <td colspan="6">Technologies & Tools</td>
         </tr>
     </thead>
     <tbody align="center">
@@ -25,7 +25,6 @@ I'm a college student from New York studying software engineering
             <td>java</td>
             <td>spring</td>
             <td>python</td>
-            <td>git</td>
             <td>html</td>
             <td>css</td>
         </tr>
@@ -39,18 +38,18 @@ I'm a college student from New York studying software engineering
             <td colspan="7">IDEs & Text Editors</td>
         </tr>
         <tr>
-            <td colspan="1.6">visual studio</td>
-            <td colspan="1.6">intellij</td>
-            <td colspan="1.6">pycharm</td>
-            <td colspan="2">visual studio code</td>
+            <td>visual studio</td>
+            <td colspan="2">intellij</td>
+            <td>pycharm</td>
+            <td>visual studio code</td>
         </tr>
         <tr>
             <td colspan="7">Data & Others</td>
         </tr>
         <tr>
-            <td colspan="2.3">json</td>
-            <td colspan="2.3">xml</td>
-            <td colspan="2.3">xquery</td>
+            <td colspan="2">json</td>
+            <td colspan="2">xml</td>
+            <td colspan="2">xquery</td>
         </tr>
     </tbody>
 </table>
