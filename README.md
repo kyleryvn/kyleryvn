@@ -22,18 +22,19 @@
         </thead>
         <tbody align="center">
             <tr>
-                <td rowspan="2"><a href="https://cppinstitute.org/"><img src="images/logos/c++.svg"></a></td>
+                <td rowspan="3"><a href="https://cppinstitute.org/"><img src="images/logos/c++.svg"></a></td>
                 <td><a href="https://www.oracle.com/java/"><img src="images/logos/java.svg"></a></td>
-                <td rowspan="2"><a href="https://www.python.org/"><img src="images/logos/python.svg"></a></td>
-                <td rowspan="2"><a href="https://html.spec.whatwg.org/multipage/"><img src="images/logos/html.svg"></a></td>
-                <td rowspan="2"><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="images/logos/css.svg"></a></td>
-                <td rowspan="2"><a href="https://www.mysql.com/"><img src="images/logos/mysql.svg"></a></td>
+                <td rowspan="3"><a href="https://www.python.org/"><img src="images/logos/python.svg"></a></td>
+                <td rowspan="3"><a href="https://html.spec.whatwg.org/multipage/"><img src="images/logos/html.svg"></a></td>
+                <td rowspan="3"><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="images/logos/css.svg"></a></td>
+                <td rowspan="3"><a href="https://www.mysql.com/"><img src="images/logos/mysql.svg"></a></td>
             </tr>
             <tr>
-                <td rowspan="2"><a href="https://spring.io/"><img src="images/logos/spring.svg"></a></td>
+                <td><a href="https://spring.io/"><img src="images/logos/spring.svg"></a></td>
             </tr>
+            <tr></tr>
             <tr>
-                <td colspan="6">g</td>
+                <td colspan="6">ggg</td>
             </tr>
         </tbody>
     </table>
