@@ -5,11 +5,11 @@
 
 <h3 align="center">I'm a passionate software engineer on a mission to learn as much as I can</h3>
 
-<h2 align="left">About</h2>
+## About
 I'm a college student from New York studying software engineering
 
 
-<h3 align="center">Tools & Technologies</h3>
+## Tools & Technologies
 <table align="center" width="700px">
     <thead align="center">
         <tr>
