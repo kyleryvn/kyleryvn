@@ -1,8 +1,8 @@
-<div style="text-align: center;"><img src = "images/programming.svg" style="width: 500px;">
+<img align="center" src="images/programming.svg" style="width: 500px;">
 
-## Hi, I'm Kyle :wave:
-I'm Kyle Schoenhardt, an aspiring Full Stack Developer.
-</div>
+<h1 align="center">Hi, I'm Kyle :wave:</h1>
+<h3 align="center">I'm Kyle Schoenhardt, an aspiring Full Stack Developer.</h3>
+
 
 Reach out to me! :mailbox:
 * y
