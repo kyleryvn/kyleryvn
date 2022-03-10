@@ -12,6 +12,9 @@
     <table>
         <thead align="center">
             <tr>
+            <td colspan="6">Languages</td>
+            </tr>
+            <tr>
             <td colspan="3">Back End</td>
             <td colspan="2">Front End</td>
             <td>Database</td>
@@ -24,6 +27,7 @@
                 <td><img src="images/logos/python.svg"></td>
                 <td><img src="images/logos/python.svg"></td>
                 <td><img src="images/logos/python.svg"></td>
+                <td><img src="images/logos/mysql.svg"></td>
             </tr>
             <tr>
                 <td rowspan="2"><img src="images/logos/c++.svg"></td>
