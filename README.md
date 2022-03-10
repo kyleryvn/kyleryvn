@@ -10,12 +10,20 @@
 ## Technologies
 <div id="technologies" align="center">
     <table>
-        <thead style="background: black; font-size:1.5em">
+        <thead>
             <tr>
-            <td>Back End</td>
+            <td rowspan="3">Back End</td>
             <td>Front End</td>
+            <td>Database</td>
             </tr>
         </thead>
+        <tbody>
+            <tr>
+                <td><img src="images/logos/c++.svg"></td>
+                <td><img src="images/logos/java.svg"></td>
+                <td><img src="images/logos/python.svg"></td>
+            </tr>
+        </tbody>
     </table>
 </div>
 
