@@ -13,7 +13,7 @@ I'm a college student from New York studying software engineering
 <table align="center">
     <thead align="center">
         <tr>
-            <td colspan="4">Back End</td>
+            <td colspan="3">Back End</td>
             <td colspan="2">Front End</td>
         </tr>
     </thead>
@@ -33,8 +33,9 @@ I'm a college student from New York studying software engineering
     </thead>
     <tbody align="center">
         <tr>
-            <td colspan="3"><a href="http://spring.io"><img src="images/logos/spring.svg"></a></td>
-            <td colspan="3">thymeleaf</td>
+            <td colspan="2"><a href="http://spring.io"><img src="images/logos/spring.svg"></a></td>
+            <td colspan="1"><a href="https://www.thymeleaf.org/"><img src="images/logos/thymeleaf.svg" width="46px"></td>
+            <td colspan="2"></td>
         </tr>
     </tbody>
     <thead align="center">
