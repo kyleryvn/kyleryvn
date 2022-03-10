@@ -25,8 +25,8 @@
                 <td><img src="images/logos/c++.svg"></td>
                 <td><img src="images/logos/java.svg"></td>
                 <td><img src="images/logos/python.svg"></td>
-                <td><img src="images/logos/python.svg"></td>
-                <td><img src="images/logos/python.svg"></td>
+                <td><img src="images/logos/html.svg"></td>
+                <td><img src="images/logos/css.svg"></td>
                 <td><img src="images/logos/mysql.svg"></td>
             </tr>
             <tr>
