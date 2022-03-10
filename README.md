@@ -9,9 +9,9 @@
 I'm a college student from New York studying software engineering
 
 <div align="center" style="display:flex; justify-content:center; flex-flow:row-wrap">
-    <div style="width:100%; flex:1">fff</div>
-    <div style="width:50%; flex:2">ff</div>
-    <div style="width:50%; flex:2">ff</div>
+    <div style="width:100%">fff</div>
+    <div style="width:50%">ff</div>
+    <div style="width:50%">ff</div>
 </div>
 
 ## Technologies & Tools
