@@ -17,7 +17,7 @@ I'm a college student from New York studying software engineering
     </thead>
     <tbody align="center">
         <tr>
-            <td colspan="5">Back End</td>
+            <td colspan="4">Back End</td>
             <td colspan="2">Front End</td>
         </tr>
         <tr>
@@ -41,7 +41,7 @@ I'm a college student from New York studying software engineering
             <td>visual studio</td>
             <td colspan="2">intellij</td>
             <td>pycharm</td>
-            <td>visual studio code</td>
+            <td colspan="2">visual studio code</td>
         </tr>
         <tr>
             <td colspan="7">Data & Others</td>
