@@ -21,7 +21,7 @@ I'm a college student from New York studying software engineering
         <tr>
             <td><img src="images/logos/c++.svg"></td>
             <td colspan="2"><a href="https://www.java.com/en/"><img src="images/logos/java.svg"></a></td>
-            <td><a href="http://python.org"><img src="images/logos/python.svg"></a><br>Python</td>
+            <td><a href="http://python.org"><img src="images/logos/python.svg"></a></td>
             <td><img src="images/logos/html.svg"></td>
             <td> <img src="images/logos/css.svg"></td>
         </tr>
