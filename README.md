@@ -22,7 +22,7 @@
         </thead>
         <tbody align="center">
             <tr>
-                <td rowspan="2"><img src="images/logos/c++.svg"></td>
+                <td rowspan="2"><a href="https://cppinstitute.org/"><img src="images/logos/c++.svg"></a></td>
                 <td><img src="images/logos/java.svg"></td>
                 <td rowspan="2"><a href="https://www.python.org/"><img src="images/logos/python.svg"></a></td>
                 <td rowspan="2"><img src="images/logos/html.svg"></td>
@@ -30,7 +30,7 @@
                 <td rowspan="2"><a href=""><img src="images/logos/mysql.svg"></a></td>
             </tr>
             <tr>
-                <td rowspan="2"><img src="images/logos/spring.svg"></td>
+                <td rowspan="2"><a href="https://spring.io/"><img src="images/logos/spring.svg"></a></td>
             </tr>
         </tbody>
     </table>
