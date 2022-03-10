@@ -39,11 +39,9 @@ I'm a college student from New York studying software engineering
             <td colspan="7">IDEs & Text Editors</td>
         </tr>
         <tr>
-            <td>visual studio</td>
-            <td>intellij</td>
-            <td>pycharm</td>
-            <td></td>
-            <td></td>
+            <td colspan="1.5">visual studio</td>
+            <td colspan="1.5">intellij</td>
+            <td colspan="1.5">pycharm</td>
             <td colspan="2">visual studio code</td>
         </tr>
         <tr>
