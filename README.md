@@ -9,7 +9,7 @@
 I'm a college student from New York studying software engineering
 
 
-<table align="center" width="600px">
+<table align="center" width="100%">
     <thead align="center">
         <tr>
             <td colspan="7">Technologies & Tools</td>
