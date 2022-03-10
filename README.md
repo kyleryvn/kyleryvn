@@ -8,7 +8,7 @@
 ## About
 I'm a college student from New York studying software engineering
 
-## Tools & Technologies
+<h3 align="center">Tools & Technologies</h3>
 <table align="center" width="700px">
     <thead align="center">
         <tr>
