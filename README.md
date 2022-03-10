@@ -8,7 +8,7 @@
 ## About
 I'm from New York
 
-## Technologies
+## Technologies & Tools
 #### Back End
 <img src="images/logos/c++.svg"> <img src="images/logos/java.svg"> <img src="images/logos/spring.svg"> <img src="images/logos/python.svg">
 
