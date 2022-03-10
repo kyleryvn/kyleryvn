@@ -13,11 +13,11 @@
         <thead align="center">
             <tr>
             <td colspan="3">Back End</td>
-            <td>Front End</td>
+            <td colspan="2">Front End</td>
             <td>Database</td>
             </tr>
         </thead>
-        <tbody>
+        <tbody align="center">
             <tr>
                 <td><img src="images/logos/c++.svg"></td>
                 <td><img src="images/logos/java.svg"></td>
@@ -26,7 +26,7 @@
                 <td><img src="images/logos/python.svg"></td>
             </tr>
             <tr>
-                <td rowspan=""><img src="images/logos/c++.svg"></td>
+                <td rowspan="2"><img src="images/logos/c++.svg"></td>
             </tr>
         </tbody>
     </table>
