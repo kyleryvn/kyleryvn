@@ -8,13 +8,8 @@
 ## About
 I'm a college student from New York studying software engineering
 
-
+## Tools & Technologies
 <table align="center" width="700px">
-    <thead align="center">
-        <tr>
-            <td colspan="6">Technologies & Tools</td>
-        </tr>
-    </thead>
     <thead align="center">
         <tr>
             <td colspan="4">Back End</td>
