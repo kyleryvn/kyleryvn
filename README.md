@@ -39,18 +39,18 @@ I'm a college student from New York studying software engineering
             <td colspan="7">IDEs & Text Editors</td>
         </tr>
         <tr>
-            <td colspan="1.5">visual studio</td>
-            <td colspan="1.5">intellij</td>
-            <td colspan="1.5">pycharm</td>
+            <td colspan="1.6">visual studio</td>
+            <td colspan="1.6">intellij</td>
+            <td colspan="1.6">pycharm</td>
             <td colspan="2">visual studio code</td>
         </tr>
         <tr>
             <td colspan="7">Data & Others</td>
         </tr>
         <tr>
-            <td colspan="2">json</td>
-            <td colspan="2">xml</td>
-            <td colspan="2">xquery</td>
+            <td colspan="2.3">json</td>
+            <td colspan="2.3">xml</td>
+            <td colspan="2.3">xquery</td>
         </tr>
     </tbody>
 </table>
