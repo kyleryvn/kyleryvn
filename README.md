@@ -8,5 +8,7 @@
 ## About
 
 ## Technologies
-### Back End
+<div id="technologies" align="center">
+    <img src="images/logos/c++.svg" alt="c++"><img src="images/logos/java.svg" alt="java">
+</div>
 
