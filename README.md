@@ -8,15 +8,55 @@
 ## About
 I'm a college student from New York studying software engineering
 
-<div align="center" style="display:flex; justify-content:center; flex-flow:row-wrap">
-    <div style="width:100%">fff</div>
-    <div style="width:50%">ff</div>
-    <div style="width:50%">ff</div>
-</div>
 
-## Technologies & Tools
+<table align="center">
+    <thead align="center">
+        <tr>
+            <td colspan="7">Technologies & Tools</td>
+        </tr>
+    </thead>
+    <tbody align="center">
+        <tr>
+            <td colspan="5">Back End</td>
+            <td colspan="2">Front End</td>
+        </tr>
+        <tr>
+            <td>c++</td>
+            <td>java</td>
+            <td>spring</td>
+            <td>python</td>
+            <td>git</td>
+            <td>html</td>
+            <td>css</td>
+        </tr>
+        <tr>
+            <td colspan="7">Database</td>
+        </tr>
+        <tr>
+            <td colspan="7">mysql</td>
+        </tr>
+        <tr>
+            <td colspan="7">IDEs & Text Editors</td>
+        </tr>
+        <tr>
+            <td>visual studio</td>
+            <td>intellij</td>
+            <td>pycharm</td>
+            <td></td>
+            <td></td>
+            <td colspan="2">visual studio code</td>
+        </tr>
+        <tr>
+            <td colspan="7">Data & Others</td>
+        </tr>
+        <tr>
+            <td colspan="2">json</td>
+            <td colspan="2">xml</td>
+            <td colspan="2">xquery</td>
+        </tr>
+    </tbody>
+</table>
 
-#### Back End
 
 
 
