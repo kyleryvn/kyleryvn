@@ -21,6 +21,8 @@
 
 [![Apache Maven](https://img.shields.io/badge/-Maven-C71A36?&logo=Apache%20Maven&logoColor=white&labelColor=grey&style=for-the-badge)](https://maven.apache.org/)
 
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=white&labelColor=grey&style=for-the-badge)](https://maven.apache.org/)
+
 
 ### Novice
 
