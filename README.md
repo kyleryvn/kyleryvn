@@ -19,8 +19,14 @@
 
 [![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&labelColor=gray&style=for-the-badge)](https://spring.io) [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&labelColor=gray&style=for-the-badge)](https://spring.io) [![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?logo=thymeleaf&logoColor=white&labelColor=gray&style=for-the-badge)](https://www.thymeleaf.org)
 
+[![Apache Maven](https://img.shields.io/badge/-Maven-C71A36?&logo=Apache%20Maven&logoColor=white&labelColor=grey&style=for-the-badge)](https://maven.apache.org/)
 
-#### Novice
+
+### Novice
+
+### Currently Learning
+* Data Structures & Algorithms
+* Python
 
 <h4 align="center">Connect with me</h4>
 <p align="center">
