@@ -6,7 +6,7 @@
 <h3 align="center">I'm a passionate software engineer on a mission to learn as much as I can</h3>
 
 ## About
-* I'm a college student from New York studying software engineering
+* I'm a college student from New York studying software engineering :computer:
 * My favorite programming language is Java :coffee:
 * 
 
