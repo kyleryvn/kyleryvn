@@ -6,13 +6,18 @@
 <h3 align="center">I'm a passionate software engineer on a mission to learn as much as I can</h3>
 
 ## About
-I'm a college student from New York studying software engineering
-
+* I'm a college student from New York studying software engineering
+* My favorite programming language is Java :coffee:
+* 
 
 ## Tools & Technologies
-<a href="https://www.java.com/en/"><img src="images/logos/java.svg"></a> <a href="http://spring.io"><img src="images/logos/spring.svg"></a> <a href="https://www.thymeleaf.org/"><img src="images/logos/thymeleaf.svg" width="46px"><br><a href="https://www.w3schools.com/cpp/default.asp"><img src="images/logos/c++.svg"></a><br><a href="http://python.org"><img src="images/logos/python.svg"></a><br><a href="https://www.w3schools.com/html/default.asp"><img src="images/logos/html.svg"></a> <a href="https://www.w3schools.com/css/default.asp"><img src="images/logos/css.svg"></a><br><a href="http://mysql.com"><img src="images/logos/mysql.svg"></a><br><a href="https://visualstudio.microsoft.com/"><img src="images/logos/visualstudio.svg"></a> <a href="https://www.jetbrains.com/idea/"><img src="images/logos/intellij.svg"></a> <a href="https://www.jetbrains.com/pycharm/"><img src="images/logos/pycharm.svg"></a> <a href="https://code.visualstudio.com/"><img src="images/logos/vscode.svg"></a><br><a href="https://www.json.org/json-en.html"><img src="images/logos/json.svg" width="46px"></a>
-* XML
-* xQuery
+### Proficient
+[![Java](https://img.shields.io/badge/-Java-007396?logo=Java&labelColor=gray&style=for-the-badge)](https://jdk.java.net/17/)
+
+### Intermediate / Familiar With
+spring, thymeleaf, html, css, python, c++
+
+#### Novice
 
 <h4 align="center">Connect with me</h4>
 <p align="center">
