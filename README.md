@@ -14,7 +14,7 @@
 ### Proficient
 [![Java](https://img.shields.io/badge/-Java-007396?logo=Java&labelColor=gray&style=for-the-badge)](https://jdk.java.net/17/)
 
-### Intermediate / Familiar With
+### Intermediate
 [![C++](https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&labelColor=gray&style=for-the-badge)](https://cplusplus.com/) [![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&labelColor=gray&style=for-the-badge)](http://python.org) [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&labelColor=gray&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&labelColor=gray&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 [![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&labelColor=gray&style=for-the-badge)](https://spring.io) [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&labelColor=gray&style=for-the-badge)](https://spring.io) [![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?logo=thymeleaf&logoColor=white&labelColor=gray&style=for-the-badge)](https://www.thymeleaf.org)
@@ -23,8 +23,6 @@
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=white&labelColor=grey&style=for-the-badge)](https://maven.apache.org/)
 
-
-### Novice
 
 ### Currently Learning
 * Data Structures & Algorithms
