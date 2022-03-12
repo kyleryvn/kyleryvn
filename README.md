@@ -12,7 +12,8 @@
 
 ## Tools & Technologies
 ### Proficient
-[![Java](https://img.shields.io/badge/-Java-007396?logo=Java&labelColor=gray&style=for-the-badge)](https://jdk.java.net/17/)
+<img src="images/logos/java.svg" width="50px">
+[![Java](/images/logos/java.svg width="50px")](https://jdk.java.net/17/)
 
 ### Intermediate
 [![C++](https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&labelColor=gray&style=for-the-badge)](https://cplusplus.com/) [![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&labelColor=gray&style=for-the-badge)](http://python.org) [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&labelColor=gray&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&labelColor=gray&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
