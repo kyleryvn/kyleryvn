@@ -26,7 +26,7 @@
 
 <a href="https://www.mysql.com/"><img src="images/logos/mysql.svg" width="60ox"></a> <a href="https://www.w3schools.com/xml/xml_xquery.asp"><img src="images/logos/xquery.svg" width="60ox"></a>
 
-
+### Currently Learning
 <a href="https://python.org"><img src="images/logos/python.svg" width="60ox"></a> <a href="https://www.mysql.com/"><img src="images/logos/mysql.svg" width="60ox"></a>
 
 ### Want to Learn
