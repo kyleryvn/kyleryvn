@@ -11,6 +11,9 @@
 * Outside of the tech world I'm a house and techno DJ
 
 ## Tools & Technologies
+
+<div align="center">
+
 ### Proficient
 #### Back End Languages
 <a href="https://jdk.java.net/17/"><img src="images/logos/java.svg" width="60ox"></a>
@@ -34,6 +37,8 @@
 
 ### Want to Learn
 <a href="https://www.w3schools.com/js/default.asp"><img src="images/logos/javascript.svg" width="60ox"></a>
+
+</div>
 
 <h4 align="center">Connect with me</h4>
 <p align="center">
