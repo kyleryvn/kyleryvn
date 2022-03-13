@@ -38,5 +38,5 @@
 
 <h4 align="center">Connect with me</h4>
 <p align="center">
-    <a href="https://www.linkedin.com/in/kyleryvn/"><img src="images/logos/linkedin-circle.svg"></a> <img src="images/logos/twitter-circle.svg">
+    <a href="https://www.linkedin.com/in/kyleryvn/"><img src="images/linkedin.svg"></a> <img src="images/twitter.svg">
 </p>
