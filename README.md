@@ -15,7 +15,9 @@
 <div align="center">
 
 ### Proficient
-<a href="https://jdk.java.net/17/"><img src="images/logos/java.svg" width="60ox"></a><br><a href="https://www.json.org/json-en.html"><img src="images/logos/json.svg" width="60ox"></a>
+<a href="https://jdk.java.net/17/"><img src="images/logos/java.svg" width="60ox"></a>
+
+<a href="https://www.json.org/json-en.html"><img src="images/logos/json.svg" width="60ox"></a> 
 
 
 ### Intermediate
@@ -27,8 +29,10 @@
 
 <a href="https://www.mysql.com/"><img src="images/logos/mysql.svg" width="60ox"></a> <a href="https://www.w3schools.com/xml/xml_xquery.asp"><img src="images/logos/xquery.svg" width="60ox"></a>
 
+<a href="https://www.w3schools.com/xml/xml.asp"><img src="images/logos/xml.svg" width="60ox"></a>
+
 ### Currently Learning
-<a href="https://python.org"><img src="images/logos/python.svg" width="60ox"></a> <a href="https://www.mysql.com/"><img src="images/logos/mysql.svg" width="60ox"></a>
+<a href="https://python.org"><img src="images/logos/python.svg" width="60ox"></a> <a href="https://www.mysql.com/"><img src="images/logos/mysql.svg" width="60ox"></a> 
 
 ### Want to Learn
 <a href="https://www.w3schools.com/js/default.asp"><img src="images/logos/javascript.svg" width="60ox"></a>
