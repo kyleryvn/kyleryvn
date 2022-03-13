@@ -12,10 +12,21 @@
 
 ## Tools & Technologies
 ### Proficient
+#### Back End Languages
 <a href="https://jdk.java.net/17/"><img src="images/logos/java.svg" width="60ox"></a>
 
 ### Intermediate
-<a href="https://cplusplusinstitute.com"><img src="images/logos/cplusplus.svg" width="60ox"></a> <a href="https://python.org"><img src="images/logos/python.svg" width="60ox"></a><br><a href="https://spring.io"><img src="images/logos/spring.svg" width="60ox"></a> <a href="https://spring.io/projects/spring-boot"><img src="images/logos/springboot.svg" width="60ox"></a> <a href="https://www.thymeleaf.org/"><img src="images/logos/thymeleaf.svg" width="60ox"></a><br><a href="https://www.mysql.com/"><img src="images/logos/mysql.svg" width="60ox"></a> <a href="https://www.w3schools.com/xml/xml_xquery.asp"><img src="images/logos/xquery.svg" width="60ox"></a><br><a href="https://www.w3schools.com/html/default.asp"><img src="images/logos/html.svg" width="60ox"></a> <a href="https://www.w3schools.com/css/default.asp"><img src="images/logos/css.svg" width="60ox"></a>
+#### Back End Languages
+<a href="https://cplusplusinstitute.com"><img src="images/logos/cplusplus.svg" width="60ox"></a> <a href="https://python.org"><img src="images/logos/python.svg" width="60ox"></a>
+
+#### Front End Languages
+<a href="https://www.w3schools.com/html/default.asp"><img src="images/logos/html.svg" width="60ox"></a> <a href="https://www.w3schools.com/css/default.asp"><img src="images/logos/css.svg" width="60ox"></a>
+
+#### Frameworks & APIs
+<a href="https://spring.io"><img src="images/logos/spring.svg" width="60ox"></a> <a href="https://spring.io/projects/spring-boot"><img src="images/logos/springboot.svg" width="60ox"></a> <a href="https://www.thymeleaf.org/"><img src="images/logos/thymeleaf.svg" width="60ox"></a>
+
+#### Database
+<a href="https://www.mysql.com/"><img src="images/logos/mysql.svg" width="60ox"></a> <a href="https://www.w3schools.com/xml/xml_xquery.asp"><img src="images/logos/xquery.svg" width="60ox"></a>
 
 
 ### Currently Learning
