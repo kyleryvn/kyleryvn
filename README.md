@@ -15,7 +15,7 @@
 <div align="center">
 
 ### Proficient
-<a href="https://jdk.java.net/17/"><img src="images/logos/java.svg" width="60ox"></a><br><a href="https://jdk.java.net/17/"><img src="images/logos/json.svg" width="60ox"></a>
+<a href="https://jdk.java.net/17/"><img src="images/logos/java.svg" width="60ox"></a><br><a href="https://www.json.org/json-en.html"><img src="images/logos/json.svg" width="60ox"></a>
 
 
 ### Intermediate
