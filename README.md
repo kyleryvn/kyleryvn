@@ -18,7 +18,7 @@
 <a href="https://cplusplusinstitute.com"><img src="images/logos/cplusplus.svg" width="60ox"></a> <a href="https://python.org"><img src="images/logos/python.svg" width="60ox"></a>
 
 ### Currently Learning
-
+<a href="https://python.org"><img src="images/logos/python.svg" width="60ox"></a> 
 
 <h4 align="center">Connect with me</h4>
 <p align="center">
