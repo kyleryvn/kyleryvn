@@ -1,1 +1,19 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168 168"><defs><style>.cls-1{isolation:isolate;opacity:0.35;}.cls-2{fill:#f2f2f2;}.cls-3{fill:#59666c;}.cls-4{fill:#333;}.cls-5{fill:#fff;}</style></defs><path class="cls-1" d="M29,168A25,25,0,0,1,4,143V29A25,25,0,0,1,29,4H143a25,25,0,0,1,25,25V143a25,25,0,0,1-25,25Z"/><path class="cls-2" d="M25,164A25,25,0,0,1,0,139V25A25,25,0,0,1,25,0H139a25,25,0,0,1,25,25V139a25,25,0,0,1-25,25Z"/><path class="cls-3" d="M13,139V25A12,12,0,0,1,25,13H139a12,12,0,0,1,12,12V139a12,12,0,0,1-12,12H25A12,12,0,0,1,13,139Z"/><path class="cls-4" d="M139,154H25a15,15,0,0,1-15-15V25A15,15,0,0,1,25,10H139a15,15,0,0,1,15,15V139A15,15,0,0,1,139,154ZM25,16a9,9,0,0,0-9,9V139a9,9,0,0,0,9,9H139a9,9,0,0,0,9-9V25a9,9,0,0,0-9-9Z"/><path class="cls-5" d="M53,29.5l20.19,35h39.16l-20.21-35H53Zm-1.88,1.08L31.51,64.47l20.19,35,19.58-34ZM112.3,64.49l-19.57,34,20.19,35,19.57-33.88Zm-21.46,35H51.69l20.2,35H111l-20.19-35Z"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 90 90" style="enable-background:new 0 0 90 90;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.35;fill:#010101;enable-background:new    ;}
+	.st1{fill:#F3F3F3;}
+	.st2{fill:#59666C;}
+	.st3{fill:#333333;}
+	.st4{fill:#FFFFFF;}
+</style>
+<circle class="st0" cx="46" cy="46" r="44"/>
+<circle class="st1" cx="44" cy="44" r="44"/>
+<path class="st2" d="M44,6.5C23.3,6.5,6.5,23.3,6.5,44S23.3,81.5,44,81.5S81.5,64.7,81.5,44S64.7,6.5,44,6.5z"/>
+<path class="st3" d="M44,83C22.5,83,5,65.5,5,44S22.5,5,44,5s39,17.5,39,39C83,65.5,65.5,83,44,83z M44,8C24.1,8,8,24.1,8,44
+	s16.1,36,36,36s36-16.1,36-36S63.9,8,44,8z"/>
+<path class="st4" d="M32.3,22l8.8,15.3h17.2L49.4,22H32.3z M31.5,22.5l-8.6,14.9l8.8,15.3l8.6-14.9L31.5,22.5z M58.3,37.3l-8.6,14.9
+	l8.9,15.3l8.6-14.8L58.3,37.3z M48.9,52.7H31.7L40.6,68h17.1L48.9,52.7L48.9,52.7z"/>
+</svg>
