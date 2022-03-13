@@ -25,7 +25,7 @@
 #### Frameworks & APIs
 <a href="https://spring.io"><img src="images/logos/spring.svg" width="60ox"></a> <a href="https://spring.io/projects/spring-boot"><img src="images/logos/springboot.svg" width="60ox"></a> <a href="https://www.thymeleaf.org/"><img src="images/logos/thymeleaf.svg" width="60ox"></a>
 
-#### Database
+#### Database & Related
 <a href="https://www.mysql.com/"><img src="images/logos/mysql.svg" width="60ox"></a> <a href="https://www.w3schools.com/xml/xml_xquery.asp"><img src="images/logos/xquery.svg" width="60ox"></a>
 
 
