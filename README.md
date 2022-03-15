@@ -6,9 +6,9 @@
 <h3 align="center">I'm a passionate software engineer on a mission to learn as much as I can</h3>
 
 ## About
-* I'm a college student from New York studying software engineering 🖥️
-* My favorite programming language is Java ☕
-* Outside of the tech world I'm a house and techno DJ 🎧
+* I'm a college student from New York studying software engineering :desktop_computer:
+* My favorite programming language is Java :coffee:
+* Outside of the tech world I'm a house and techno DJ :headphones:
 
 ## Tools & Technologies
 
