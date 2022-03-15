@@ -8,7 +8,7 @@
 ## About
 * I'm a college student from New York studying software engineering :desktop_computer:
 * My favorite programming language is Java :coffee:
-* Outside of the tech world I'm a house and techno DJ :headphones:
+* Outside of coding I'm a house and techno DJ :headphones:
 
 ## Tools & Technologies
 
