@@ -18,7 +18,7 @@
 <a href="https://jdk.java.net/17/"><img src="images/logos/java.svg" width="60ox"></a> 
 
 
-### Intermediate
+### Familiar With
 <a href="https://cplusplusinstitute.com"><img src="images/logos/cplusplus.svg" width="60ox"></a> <a href="https://python.org"><img src="images/logos/python.svg" width="60ox"></a> <a href="https://www.w3schools.com/html/default.asp"><img src="images/logos/html.svg" width="60ox"></a> <a href="https://www.w3schools.com/css/default.asp"><img src="images/logos/css.svg" width="60ox"></a>
 
 <a href="https://maven.apache.org/"><img src="images/logos/maven.svg" width="60px"></a> <a href="https://spring.io"><img src="images/logos/spring.svg" width="60ox"></a> <a href="https://spring.io/projects/spring-boot"><img src="images/logos/springboot.svg" width="60ox"></a> <a href="https://www.thymeleaf.org/"><img src="images/logos/thymeleaf.svg" width="60ox"></a>
