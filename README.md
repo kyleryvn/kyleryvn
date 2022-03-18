@@ -25,7 +25,6 @@
 
 <a href="https://www.mysql.com/"><img src="images/logos/mysql.svg" width="60ox"></a> <a href="https://git-scm.com/"><img src="images/logos/git.svg" width="60px"></a>
 
-<a href="https://www.w3schools.com/xml/xml.asp">XML</a> &centerdot; 
 <a href="https://www.w3schools.com/xml/xml_xquery.asp">XQuery</a>
 
 ### Currently Learning
