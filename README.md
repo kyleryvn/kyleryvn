@@ -28,10 +28,10 @@
 <a href="https://www.w3schools.com/xml/xml_xquery.asp">XQuery</a>
 
 ### Currently Learning
-<a href="https://python.org"><img src="images/logos/python.svg" width="60ox"></a> <a href="https://www.mysql.com/"><img src="images/logos/mysql.svg" width="60ox"></a> <a href="https://git-scm.com/"><img src="images/logos/git.svg" width="60px"></a> <a href="https://aws.amazon.com/"><img src="images/logos/aws.svg" width="60px"></a>
+<a href="https://python.org"><img src="images/logos/python.svg" width="60ox"></a> <a href="https://www.w3schools.com/js/default.asp"><img src="images/logos/javascript.svg" width="60ox"></a> <a href="https://www.mysql.com/"><img src="images/logos/mysql.svg" width="60ox"></a> <a href="https://git-scm.com/"><img src="images/logos/git.svg" width="60px"></a> <a href="https://aws.amazon.com/"><img src="images/logos/aws.svg" width="60px"></a>
 
 ### Want to Learn
-<a href="https://www.w3schools.com/js/default.asp"><img src="images/logos/javascript.svg" width="60ox"></a> <a href="https://jython.org"><img src="images/logos/jython.svg" width="60ox"></a>
+<a href="https://jython.org"><img src="images/logos/jython.svg" width="60ox"></a>
 
 </div>
 
